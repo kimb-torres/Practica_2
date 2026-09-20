@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sat Sep 19 17:36:20 CST 2026
+comment0.target=Persona
+comment1.params=nombre codLicencia
+comment1.target=Persona(java.lang.String, java.lang.String)
+comment2.params=mascota
+comment2.target=void asignarMascota(Mascota)
+comment3.target=java.lang.String consultarNombreMisMascotas()
+comment4.target=java.lang.String getNombre()
+comment5.target=java.lang.String codigoLicencia()
+comment6.target=java.lang.String toString()
+numComments=7
